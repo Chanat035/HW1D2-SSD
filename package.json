@@ -1,0 +1,25 @@
+{
+  "name": "hw1d2-ssd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chanat035/HW1D2-SSD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chanat035/HW1D2-SSD/issues"
+  },
+  "homepage": "https://github.com/Chanat035/HW1D2-SSD#readme",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.2"
+  }
+}
